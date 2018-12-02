@@ -1,3 +1,6 @@
+import sys
+import os
+sys.path.append(os.pardir)
 from logic_sub import *
 
 def state(p,q,r):
